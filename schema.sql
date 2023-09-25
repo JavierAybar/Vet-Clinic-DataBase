@@ -70,10 +70,9 @@ CREATE TABLE visits (
 
 -- Add an email column to your owners table
 ALTER TABLE owners ADD COLUMN email VARCHAR(120);
+
 CREATE TEMPORARY TABLE tt_visits AS SELECT * FROM visits WHERE vet_id = 2;
-
-
-CREATE INDEX animal_idx ON visits(animal_id);
+CREATE INDEX animal_idx ON visits(animal_id asc);
 CREATE INDEX vet_idx ON tt_visits (vet_id);
 CREATE INDEX email_idx ON owners(email);
 
