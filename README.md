@@ -110,6 +110,12 @@ In the project directory, run/ Excute each query in the following order:
 - GitHub: [@JavierAybar](https://github.com/JavierAybar)
 - LinkedIn: [@JavierAybar](https://www.linkedin.com/in/javier-aybar-932376274/)
 
+👤 **Ismael Mastronardi**
+
+- GitHub: [@githubhandle](https://github.com/IsmaelMastronardi)
+- Twitter: [@twitterhandle](https://twitter.com/IsmaMastronardi)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ismael-mastronardi-361873271/)
+
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
