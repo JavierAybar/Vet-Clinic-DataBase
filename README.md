@@ -58,6 +58,11 @@ It is a project in which we have to use a relational database to create the data
   </ul>
 </details>
 
+## Schema diagram
+
+![Captura de pantalla 2023-09-26 121602](https://github.com/JavierAybar/Vet-Clinic-DataBase/assets/129561152/9577684d-bd28-4b4c-8c2c-c3c1d6d6e3e9)
+
+
 
 <!-- GETTING STARTED -->
 
@@ -151,3 +156,4 @@ Give a ⭐️ if you like this project!
 This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
